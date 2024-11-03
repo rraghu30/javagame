@@ -61,3 +61,5 @@ choices.forEach((choice) => {
     playGame(userChoice);
   });
 });
+
+// just checking how to do commit
